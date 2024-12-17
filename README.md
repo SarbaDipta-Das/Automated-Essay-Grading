@@ -1,3 +1,6 @@
+**Automated Essay Grading System that predicts essay quality.**
+
+Takes an input essay, processes it, and outputs a predicted score (out of 10) along with detailed feedback on grammar, structure, and content.
 Technical Description:
 Text Preprocessing:
 
